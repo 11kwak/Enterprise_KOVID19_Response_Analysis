@@ -1,3 +1,48 @@
+# Enterprise KOVID19 Response Analysis Using Tableau,PowerBI,Knolpy,Nltk,Numpy,Pandas,Matplotlib,OpenApi,Webcrawling 
+
+## There are three chapter
+### 1. Using Knolpy,Nltk,Numpy,Pandas,Matplotlib,OpenApi,Webcrawling 
+### 2. Using Tableau
+### 3. Using PowerBI
+
+
+
+## 1. Using Knolpy,Nltk,Numpy,Pandas,Matplotlib,OpenApi,Webcrawling 
+
+
+
+## 2. Using Tableau
+
+![그림1](https://user-images.githubusercontent.com/87745990/128672482-6fa049e2-3517-4a8c-8848-489ed0e599bf.png)
+
+
+
+## 3. Using PowerBI
+  
+
+![4214231231](https://user-images.githubusercontent.com/87745990/128672779-2eb64329-9dd6-43bc-a8c7-4330431b0026.png)
+
+
+![111111](https://user-images.githubusercontent.com/87745990/128672852-e418140d-5d78-4f2d-8795-7f5b9737dc7b.png)
+
+
+
+## Tools
+
+- Python 3.9.6
+- VSCode
+
+## Credits
+
+![역할](https://user-images.githubusercontent.com/87745990/129670295-6260e25d-011b-4a64-a5b3-8b94e5c18283.png)
+
+- yeedacoding  - Using 'Opencv' to recognize Coin&Bills
+
+- m1naworld  - Using 'SVM' to recognize license plates
+
+- 11kwak - Using 'KNN' to recognize license plate numbers
+
+
 ## 프로젝트 제목
 ​
 코로나 영향에 따른 기업 대응전략 분석
