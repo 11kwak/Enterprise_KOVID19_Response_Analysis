@@ -58,15 +58,15 @@
 ​
 ## Data Resource
 ​
-COVID19 Real-Time Situation Board : https://coronaboard.kr/
+- COVID19 Real-Time Situation Board : https://coronaboard.kr/
 
-Public Data Portal : https://www.data.go.kr/
+- Public Data Portal : https://www.data.go.kr/
 ​
-National Statistics Portal : https://kosis.kr/
+- National Statistics Portal : https://kosis.kr/
 ​
-Disclosure System : http://dart.fss.or.kr/
+- Disclosure System : http://dart.fss.or.kr/
 ​
-Naver News : https://news.naver.com/
+- Naver News : https://news.naver.com/
 ​
 ## License
 - Just Analysis Data
